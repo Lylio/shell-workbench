@@ -1,17 +1,10 @@
 ![](https://github.com/Lylio/image-repo/blob/master/logos/bash.png?raw=true)
-![](https://github.com/Lylio/image-repo/blob/master/logos/api.png?raw=true)
-# Shell Workbench
+![](https://github.com/Lylio/image-repo/blob/master/logos/script.png?raw=true)
+# Shell Library
 
 ### Description
-A variety of shell/bash scripts to assist with API tasks, data manipulation and improve understanding of shell programming.
+A variety of shell/bash scripts to assist with API tasks, data manipulation and automate CLI toil.
 
-https://www.udemy.com/course/linux-shell-programming-for-beginners/
-
-https://www.udemy.com/course/shell-scripting-linux/
-
-https://www.udemy.com/course/complete-bash-shell-scripting/
-
-https://www.udemy.com/course/bash-scripting/
 
 
 
